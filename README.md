@@ -121,7 +121,7 @@ flutter pub pub run flutter_native_splash:create
 ```
 
 ### Editing `router.dart`
-Everythime you change `router/router.dart`, you need to run
+Everytime you change `router/router.dart`, you need to run
 
 ```
 flutter packages pub run build_runner build --delete-conflicting-outputs
